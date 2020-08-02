@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![dijeesh](src/github-introduction.png)
+![dijeesh](https://github.com/dijeesh/dijeesh/blob/master/src/github-introduction.png)
 
 <!--
 **dijeesh/dijeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
